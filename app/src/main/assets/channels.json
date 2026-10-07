@@ -1,0 +1,5410 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "yemen",
+      "nameAr": "اليمن",
+      "nameEn": "Yemen",
+      "icon": "🇾🇪",
+      "imageLight": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw2v2_hyphenhyphen4tj0BRZaK5KggN5wXEIxWNdCLUcD-wzKV5RlQh843WwcX75EIE_J9coOoyDgI8sSdz5qpXiZJnquRFEKND-NX1FSYxf8rkYSd-Cxx5y23D3cY4h9IvM9jKPQUmUu8t4CKMUnCgT2_aGKWlBkG-pUCiZkK41MZwaXXPV3q8TYyOvSAw-C4xQj4/s320/file_000000007fb48210bbc4d940493b900b.png",
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "yemen::قناة المسيرة",
+          "nameAr": "قناة المسيرة",
+          "nameEn": "Al-Masirah TV",
+          "imageLight": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt7Asi6MH4N5c8246PZ1zpxtpaOX6Jnha7Y_u_L4l0sgVsmaayTZZmSqVPC0wzkHX58ZH0rGjR-_uN5oj1khPvABGwVb7UxBenudg-piwK8S5MvzfnfCG9GroHeRClvCdIDe6M_sIWYgJmngk6QsKYbGgnMhSdFO4mApIUXFouSeFlR9vHwhtu-s9_ukA/s320/SAMI2.jpeg",
+          "imageDark": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-QbIugKJzqUfq1xF3O9V26Dnr-fb5jJPJXnS6IZXmUqLwyqDqi3jPMfANCsJsuGZLjUzxF5dd2d2PsMpEnyUAyfPH8AhEsVT_pg9fau-pcs3KKRpDVlpwEmGhiJjsnYax7eooZp2sgN-J-BCNZ-UgmVeHOwVzyMrl9skbxOfRYsjZ_MxLWQYgjP5HPnA/s640/almasirah_themed.png",
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "yemen::قناة المسيرة#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "yemen::المسيرة مباشر",
+          "nameAr": "المسيرة مباشر",
+          "nameEn": "Al-Masirah Live",
+          "imageLight": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg25u6j6t1Y88CF4LFWDDlYIUgsJqkzUGmXm9dtE24VjgFauysqZrin4wzIoSwiBufWOMWy5d58rN5H490F-nK2Ah5VtyHzip5SdQs7S1ufehJILopYfkEyJuvTVCPYRvfi9LKO-fDM9EhqT1ObIpJP_xndSmdYROEx9td5QDkLtD6SrhXMR1RpTCCmeUU/s320/images.jpeg",
+          "imageDark": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASPoqQH0lLYq8k8pE-Iq2GSb7Sh51cfsqVb_9OoKvEKOlT8zQyF7aYz434yhaodkZ5qJnT8scRNcRXnFcUTYSJIvWWcnQV9R5D7YJqF1bQyeRnZXTtqVq8o_V8DeVWYJFalC81wgJAaxy085OIm7gXM1YOmJBf7XWZODLC4J1rvrOY_CGFgEWrpm8B4c/s675/almasirah_live_themed.png",
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "yemen::المسيرة مباشر#1",
+              "qualityAr": "642p",
+              "qualityEn": "642p",
+              "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "yemen::قناة الساحات",
+          "nameAr": "قناة الساحات",
+          "nameEn": "Al-Sahat TV",
+          "imageLight": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU4DJ3fPzZsBkl2Yd2cZNQs0bMgvy1BrnZsDvPdP9T5e_W_0RGXQGY0vMH07_QwNPvJ545XA-V2VHCc-qlFweD4XMLPtVrohp9nUdLWL121o-IMT4jfN1Gzsyz6Gp2OCDNI-izm2zsw-VQYfdk9GxXvmlif1H__LNo0YIsBRFTaCD2oPASL5dVx2flNSI/s320/images%20%281%29.png",
+          "imageDark": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIeQ2r9m-XuGkc7dDAFHeIWRNuv8VQOXIIppeWd7uJijbjBMs27E85qm6LiZFcNLQRlpPnyPbACbyMml4zkYtlIZNeWup0EDPU6uNE2U9XCbURLiHsCLTdOY22e5dB2Vw3moBdas_-PUNOKhKpx2FrLTaBG4Vi6DNOtOW9lgAGTQT4EC4mBKkv5wL7ot0/s320/file_0000000088ec8210bb3e3c2c2a18ddf5.png",
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "yemen::قناة الساحات#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "yemen::يمن شباب",
+          "nameAr": "يمن شباب",
+          "nameEn": "Yemen Shabab",
+          "imageLight": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYDPs53NXzQieIWBlcegi-7zChaEnuSh9O7vygl8QsZcRg3_QqhGVQfCCHlVBA6QzrQDSgQ2D5Qu4Yr2GPXYahYX5JbK9BdVsuveMknS4MMBbM5nF7tIV-rOXEpKm8soGqh_TZjvyBglaTYDGOdqPdjUz3JzoKEO3_IZv665vTK6IM_NnWgJ9tCbj8y5U/s320/images%20%282%29.jpeg",
+          "imageDark": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgysSJINDdlilAjjn8gtkWaNtbVA1nqwDQhCLUlowtetu1Uts8QuBYG1M8v6U6j4QaBIKjoNmQfq6zqga4Si92axkbUxd3q2_TJQqqEYkVXTP51eEOcwCxjTB41GwVEnQer5sUeTzOSFnK4z88eZwThV5hfmp-OKWQDfbPDQrGBe5dl1-KV3UWZ2SM0FWo/s894/logo_themed.png",
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "yemen::يمن شباب#1",
+              "qualityAr": "جودة 1",
+              "qualityEn": "Quality 1",
+              "url": "https://yemenshabab.site:13334/app/live/medialist_16547173511844667810_hls.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            },
+            {
+              "id": "yemen::يمن شباب#2",
+              "qualityAr": "جودة 2",
+              "qualityEn": "Quality 2",
+              "url": "https://yemenshabab.site:13334/app/live/medialist_7806664055920539159_hls.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            },
+            {
+              "id": "yemen::يمن شباب#3",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://starmenajo.com/hls/yemenshabab/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "yemen::قناة المهرية",
+          "nameAr": "قناة المهرية",
+          "nameEn": "Al-Mahriah TV",
+          "imageLight": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY38mRmx8Myt1bR74ucAKICZ0iodKaTXPuVbjoNc2ng0pg5mPaandMH9LPXPa-AJ_5YxttXeO6ZrK6bK0n7yS9iicRI-ppM0fB27lRA0SzZm3NePKqJVEblbZ8XCBkQnv464Tz9upX8ywAouoe6r_NBj0G0u2d5lQkAxiIu11ExbLWmnFpqMGxI1A_yvc/s320/sami.jpeg",
+          "imageDark": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir37PZOOGdCxBqRXAfdX9fGh-FM_NcMgFMT4hEBhauvKW1iJzJT27RFgLnJkuD-jJ8N7h0RmsTmzo791olGIp6valKSejoJ6otb4APixBlGYz8QgSfxuvoejvtKi5LRm5XsOxJiwBSTto15GFtN1cM5UAnGN-bZvzOKicXq7_RiDxDEOW7z7I-ubLTZGs/s320/file_000000002f7881f495e5d9886e4d0afe.png",
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "yemen::قناة المهرية#1",
+              "qualityAr": "بث مباشر",
+              "qualityEn": "Live",
+              "url": "https://starmenajo.com/hls/almahriah/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "yemen::قناة سبأ",
+          "nameAr": "قناة سبأ",
+          "nameEn": "Saba TV",
+          "imageLight": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMsKRHzhzfcVP9PiC8e28m-ekEi39QpJdNr79H1rU0mIDze1IDWexYVkSCMj_qeEM6Y96zCUwyKjwr14UUj6TxYFUzjCWx9zJ6_Gfgh_H5vu288awOe4vMle4ZxFbsj6YDDSCHCzrTHrq3vlhP9JXz6U0oMPjs9zCIEWfBQ4vk_sY1RUE2h7l30Tl6lDU/s320/saba.webp",
+          "imageDark": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeR7PRhflYuJALez5_sQZycDZkFCOf66V5uozic_OpGt_vn8lXUPz0VSGMhRODefV8oIIZ8Bqg4XaMmpid56hL53yZFfRyzR9jdRAY9lNr5o15cqjJrLz5_Jy4UkvutocFDrxvv10lQAdcwc8nwE-isV24HnKu2fIxTaxJ-kP7l9vtgWg8mpQegO1Cy70/s320/saba_themed.png",
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "yemen::قناة سبأ#1",
+              "qualityAr": "بث مباشر",
+              "qualityEn": "Live",
+              "url": "https://sabatv.net/live/saba.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "yemen::اليمن اليوم",
+          "nameAr": "اليمن اليوم",
+          "nameEn": "Yemen Today",
+          "imageLight": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdd-qT3eBawAfkQQN3Gy3qjW5XaPTXBhMaK__J4wIIv5lH4ToNZiDoTKyygqCTgKT8I4-BkjFs4gdGkWKWu-60u8jc_Vso-lwPPhyphenhyphen0hb9_RuCfZYSl4ZE-7DON9pX-nfbOzjdO-ixvqIAWSXolISaD4y9WJgdk-MC9Gs2xXeD1NyJgit77svg5z20AP2o/s320/yemen.jpeg",
+          "imageDark": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrlZzjF3mvd27fKhIfL8yjreQMu5yRWluV94OsLvPJLf2u3vrmYcPUJyuRdfOyiPGCkrDmvG9jk_YjtbQ2kz7c2WsIg9tMwfaC5QIaF_GyQqzVP1vh5RiTrfJBXVnQMFbkA7wOeHCoyjzhhKpWVRaEtcL7VFZKu54eIxC68QhcptiRlFc1BLlVAact8nw/s320/file_00000000b49481f48d82780e55aa8b2a.png",
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "yemen::اليمن اليوم#1",
+              "qualityAr": "سيرفر 1",
+              "qualityEn": "Server 1",
+              "url": "https://video.yementdy.com/hls/yementoday.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            },
+            {
+              "id": "yemen::اليمن اليوم#2",
+              "qualityAr": "سيرفر 2",
+              "qualityEn": "Server 2",
+              "url": "https://video.yementdy.tv/hls/yementoday.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saudi",
+      "nameAr": "السعودية",
+      "nameEn": "Saudi Arabia",
+      "icon": "🇸🇦",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "saudi::عبدالمجيد عبدالله",
+          "nameAr": "عبدالمجيد عبدالله",
+          "nameEn": "Abdul Majeed Abdullah",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::عبدالمجيد عبدالله#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::قناة أفلام",
+          "nameAr": "قناة أفلام",
+          "nameEn": "Aflam TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::قناة أفلام#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::العربية English",
+          "nameAr": "العربية English",
+          "nameEn": "Al Arabiya English",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::العربية English#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::الإخبارية",
+          "nameAr": "الإخبارية",
+          "nameEn": "Al Ekhbariya",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::الإخبارية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::الحدث",
+          "nameAr": "الحدث",
+          "nameEn": "Al Hadath",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::الحدث#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::القرآن الكريم",
+          "nameAr": "القرآن الكريم",
+          "nameEn": "Holy Quran",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::القرآن الكريم#1",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::السعودية الأولى",
+          "nameAr": "السعودية الأولى",
+          "nameEn": "Saudi TV 1",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::السعودية الأولى#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::السعودية الآن",
+          "nameAr": "السعودية الآن",
+          "nameEn": "Saudi Now",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::السعودية الآن#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::السنة النبوية",
+          "nameAr": "السنة النبوية",
+          "nameEn": "Sunnah TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::السنة النبوية#1",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::المجد للقرآن",
+          "nameAr": "المجد للقرآن",
+          "nameEn": "Al Majd Quran",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::المجد للقرآن#1",
+              "qualityAr": "بث مباشر",
+              "qualityEn": "Live",
+              "url": "https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::قناة أنمي",
+          "nameAr": "قناة أنمي",
+          "nameEn": "Anime TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::قناة أنمي#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::الشرق Discovery",
+          "nameAr": "الشرق Discovery",
+          "nameEn": "Asharq Discovery",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::الشرق Discovery#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::الشرق وثائقية",
+          "nameAr": "الشرق وثائقية",
+          "nameEn": "Asharq Documentary",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::الشرق وثائقية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::الشرق للأخبار",
+          "nameAr": "الشرق للأخبار",
+          "nameEn": "Asharq News",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::الشرق للأخبار#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live-news.asharq.com/asharq.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::أطفال ومواهب",
+          "nameAr": "أطفال ومواهب",
+          "nameEn": "Kids & Talents",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::أطفال ومواهب#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::باب الحارة",
+          "nameAr": "باب الحارة",
+          "nameEn": "Bab Al Hara",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::باب الحارة#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::Big Time Plus",
+          "nameAr": "Big Time Plus",
+          "nameEn": "Big Time Plus",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::Big Time Plus#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::فيروز",
+          "nameAr": "فيروز",
+          "nameEn": "Fairouz",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::فيروز#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::اقرأ أفريقيا وأوروبا",
+          "nameAr": "اقرأ أفريقيا وأوروبا",
+          "nameEn": "Iqraa Africa & Europe",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::اقرأ أفريقيا وأوروبا#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::اقرأ العربية",
+          "nameAr": "اقرأ العربية",
+          "nameEn": "Iqraa Arabic",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::اقرأ العربية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::اقرأ قرآن",
+          "nameAr": "اقرأ قرآن",
+          "nameEn": "Iqraa Quran",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::اقرأ قرآن#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::ماجد المهندس",
+          "nameAr": "ماجد المهندس",
+          "nameEn": "Majid Al Mohandis",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::ماجد المهندس#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::قناة مكة",
+          "nameAr": "قناة مكة",
+          "nameEn": "Makkah TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::قناة مكة#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::مرايا",
+          "nameAr": "مرايا",
+          "nameEn": "Maraya",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::مرايا#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::محمد عبده",
+          "nameAr": "محمد عبده",
+          "nameEn": "Mohammed Abdu",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::محمد عبده#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::أفلام أكشن",
+          "nameAr": "أفلام أكشن",
+          "nameEn": "Aflam Action",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::أفلام أكشن#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::أفلام إثارة",
+          "nameAr": "أفلام إثارة",
+          "nameEn": "Aflam Thriller",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::أفلام إثارة#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::رابح صقر",
+          "nameAr": "رابح صقر",
+          "nameEn": "Rabeh Saqer",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::رابح صقر#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::راشد الماجد",
+          "nameAr": "راشد الماجد",
+          "nameEn": "Rashed Al Majid",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::راشد الماجد#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::الثقافية السعودية",
+          "nameAr": "الثقافية السعودية",
+          "nameEn": "Saudi Cultural",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::الثقافية السعودية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::قناة SBC",
+          "nameAr": "قناة SBC",
+          "nameEn": "SBC",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::قناة SBC#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::Spooky Nights",
+          "nameAr": "Spooky Nights",
+          "nameEn": "Spooky Nights",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::Spooky Nights#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "saudi::طرب",
+          "nameAr": "طرب",
+          "nameEn": "Tarab",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "saudi::طرب#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qatar",
+      "nameAr": "قطر",
+      "nameEn": "Qatar",
+      "icon": "🇶🇦",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "qatar::الجزيرة الوثائقية",
+          "nameAr": "الجزيرة الوثائقية",
+          "nameEn": "Al Jazeera Documentary",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الجزيرة الوثائقية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::قناة المعارف",
+          "nameAr": "قناة المعارف",
+          "nameEn": "Al Maaref TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::قناة المعارف#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::قناة الريان",
+          "nameAr": "قناة الريان",
+          "nameEn": "Al Rayyan TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::قناة الريان#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::الريان القديم",
+          "nameAr": "الريان القديم",
+          "nameEn": "Al Rayyan Classic",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الريان القديم#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::الكأس 1",
+          "nameAr": "الكأس 1",
+          "nameEn": "Alkass 1",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الكأس 1#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::الكأس 2",
+          "nameAr": "الكأس 2",
+          "nameEn": "Alkass 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الكأس 2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::الكأس 3",
+          "nameAr": "الكأس 3",
+          "nameEn": "Alkass 3",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الكأس 3#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::الكأس 4",
+          "nameAr": "الكأس 4",
+          "nameEn": "Alkass 4",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الكأس 4#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::الكأس 5",
+          "nameAr": "الكأس 5",
+          "nameEn": "Alkass 5",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الكأس 5#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::الكأس 6",
+          "nameAr": "الكأس 6",
+          "nameEn": "Alkass 6",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الكأس 6#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::الكأس 7",
+          "nameAr": "الكأس 7",
+          "nameEn": "Alkass 7",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الكأس 7#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::الكأس SHOOF",
+          "nameAr": "الكأس SHOOF",
+          "nameEn": "Alkass Shoof",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الكأس SHOOF#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::الكأس SHOOF 2",
+          "nameAr": "الكأس SHOOF 2",
+          "nameEn": "Alkass Shoof 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::الكأس SHOOF 2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::تلفزيون قطر",
+          "nameAr": "تلفزيون قطر",
+          "nameEn": "Qatar TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::تلفزيون قطر#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "qatar::تلفزيون قطر 2",
+          "nameAr": "تلفزيون قطر 2",
+          "nameEn": "Qatar TV 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "qatar::تلفزيون قطر 2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uae",
+      "nameAr": "الإمارات",
+      "nameEn": "UAE",
+      "icon": "🇦🇪",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "uae::عجمان TV",
+          "nameAr": "عجمان TV",
+          "nameEn": "Ajman TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::عجمان TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::قناة الشلال",
+          "nameAr": "قناة الشلال",
+          "nameEn": "Al Shallal TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::قناة الشلال#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::الشرقية من قبل",
+          "nameAr": "الشرقية من قبل",
+          "nameEn": "Al Sharqiya Min Qabel",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::الشرقية من قبل#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::قناة الوسطى",
+          "nameAr": "قناة الوسطى",
+          "nameEn": "Al Wousta TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::قناة الوسطى#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::تلفزيون اليوم",
+          "nameAr": "تلفزيون اليوم",
+          "nameEn": "Al Yaum TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::تلفزيون اليوم#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::CNBC عربية",
+          "nameAr": "CNBC عربية",
+          "nameEn": "CNBC Arabia",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::CNBC عربية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::الفجيرة TV",
+          "nameAr": "الفجيرة TV",
+          "nameEn": "Fujairah TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::الفجيرة TV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::MBC Persia",
+          "nameAr": "MBC Persia",
+          "nameEn": "MBC Persia",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::MBC Persia#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::قناة نور",
+          "nameAr": "قناة نور",
+          "nameEn": "Nour TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::قناة نور#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::Peace TV صيني",
+          "nameAr": "Peace TV صيني",
+          "nameEn": "Peace TV Chinese",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::Peace TV صيني#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::الشارقة 2",
+          "nameAr": "الشارقة 2",
+          "nameEn": "Sharjah 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::الشارقة 2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::الشارقة الرياضية",
+          "nameAr": "الشارقة الرياضية",
+          "nameEn": "Sharjah Sports",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::الشارقة الرياضية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "uae::تلفزيون الشارقة",
+          "nameAr": "تلفزيون الشارقة",
+          "nameEn": "Sharjah TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "uae::تلفزيون الشارقة#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jordan",
+      "nameAr": "الأردن",
+      "nameEn": "Jordan",
+      "icon": "🇯🇴",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "jordan::قناة المملكة",
+          "nameAr": "قناة المملكة",
+          "nameEn": "Al Mamlaka TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::قناة المملكة#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الإرث النبوي",
+          "nameAr": "الإرث النبوي",
+          "nameEn": "Al Irth Al Nabawi",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الإرث النبوي#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "http://82.212.74.2:8000/live/7307.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الحقيقة الدولية",
+          "nameAr": "الحقيقة الدولية",
+          "nameEn": "Al Haqiqa International",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الحقيقة الدولية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::قناة التغيير",
+          "nameAr": "قناة التغيير",
+          "nameEn": "Al Taghyeer TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::قناة التغيير#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::عمان TV",
+          "nameAr": "عمان TV",
+          "nameEn": "Amman TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::عمان TV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الأردن أرشيف",
+          "nameAr": "الأردن أرشيف",
+          "nameEn": "Jordan Archive",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الأردن أرشيف#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الأردن كوميدي",
+          "nameAr": "الأردن كوميدي",
+          "nameEn": "Jordan Comedy",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الأردن كوميدي#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الأردن دراما",
+          "nameAr": "الأردن دراما",
+          "nameEn": "Jordan Drama",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الأردن دراما#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الأردن مطبخ",
+          "nameAr": "الأردن مطبخ",
+          "nameEn": "Jordan Cooking",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الأردن مطبخ#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الأردن الفضائية",
+          "nameAr": "الأردن الفضائية",
+          "nameEn": "Jordan Satellite Channel",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الأردن الفضائية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الأردن أغاني",
+          "nameAr": "الأردن أغاني",
+          "nameEn": "Jordan Songs",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الأردن أغاني#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الأردن الرياضية",
+          "nameAr": "الأردن الرياضية",
+          "nameEn": "Jordan Sports",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الأردن الرياضية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الأردن الرياضية 2",
+          "nameAr": "الأردن الرياضية 2",
+          "nameEn": "Jordan Sports 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الأردن الرياضية 2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://jrtv-live.ercdn.net/learning2/learning2.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::الأردن سياحة",
+          "nameAr": "الأردن سياحة",
+          "nameEn": "Jordan Tourism",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::الأردن سياحة#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::قناة كيفا",
+          "nameAr": "قناة كيفا",
+          "nameEn": "Kifa TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::قناة كيفا#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "http://82.212.74.2:8000/live/7311.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::رؤيا كوميدي",
+          "nameAr": "رؤيا كوميدي",
+          "nameEn": "Roya Comedy",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::رؤيا كوميدي#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::رؤيا دراما",
+          "nameAr": "رؤيا دراما",
+          "nameEn": "Roya Drama",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::رؤيا دراما#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::رؤيا كيدز",
+          "nameAr": "رؤيا كيدز",
+          "nameEn": "Roya Kids",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::رؤيا كيدز#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::رؤيا مطبخ",
+          "nameAr": "رؤيا مطبخ",
+          "nameEn": "Roya Kitchen",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::رؤيا مطبخ#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "jordan::رؤيا TV",
+          "nameAr": "رؤيا TV",
+          "nameEn": "Roya TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "jordan::رؤيا TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://royatv-live.daioncdn.net/royatv/royatv.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "egypt",
+      "nameAr": "مصر",
+      "nameEn": "Egypt",
+      "icon": "🇪🇬",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "egypt::قناة أغابي",
+          "nameAr": "قناة أغابي",
+          "nameEn": "Aghapy TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::قناة أغابي#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::قناة الغد",
+          "nameAr": "قناة الغد",
+          "nameEn": "Al Ghad TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::قناة الغد#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::المصرية",
+          "nameAr": "المصرية",
+          "nameEn": "Al Masriya",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::المصرية#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::ATVSat",
+          "nameAr": "ATVSat",
+          "nameEn": "ATVSat",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::ATVSat#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::CBC",
+          "nameAr": "CBC",
+          "nameEn": "CBC",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::CBC#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://flu.systemnet.tv/CBC/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::CBC دراما",
+          "nameAr": "CBC دراما",
+          "nameEn": "CBC Drama",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::CBC دراما#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://flu.systemnet.tv/CBCDrama/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::CBC سفرة",
+          "nameAr": "CBC سفرة",
+          "nameEn": "CBC Sofra",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::CBC سفرة#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::Coptic TV",
+          "nameAr": "Coptic TV",
+          "nameEn": "Coptic TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::Coptic TV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::البشارة GTV",
+          "nameAr": "البشارة GTV",
+          "nameEn": "Al Beshara GTV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::البشارة GTV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::قناة هدى",
+          "nameAr": "قناة هدى",
+          "nameEn": "Hoda TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::قناة هدى#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::قناة كوجي",
+          "nameAr": "قناة كوجي",
+          "nameEn": "Koogi TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::قناة كوجي#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::MBC 1 مصر",
+          "nameAr": "MBC 1 مصر",
+          "nameEn": "MBC 1 Egypt",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::MBC 1 مصر#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::MBC مصر",
+          "nameAr": "MBC مصر",
+          "nameEn": "MBC Masr",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::MBC مصر#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::MBC مصر 2",
+          "nameAr": "MBC مصر 2",
+          "nameEn": "MBC Masr 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::MBC مصر 2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::MBC مصر دراما",
+          "nameAr": "MBC مصر دراما",
+          "nameEn": "MBC Masr Drama",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::MBC مصر دراما#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::مكملين",
+          "nameAr": "مكملين",
+          "nameEn": "Mekameleen",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::مكملين#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::ميلودي هيتس",
+          "nameAr": "ميلودي هيتس",
+          "nameEn": "Melody Hits",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::ميلودي هيتس#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://mumt03.tangotv.in/MELODYHITS/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::ميكس هوليوود",
+          "nameAr": "ميكس هوليوود",
+          "nameEn": "Mix Hollywood",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::ميكس هوليوود#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "egypt::قناة وطن",
+          "nameAr": "قناة وطن",
+          "nameEn": "Watan TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "egypt::قناة وطن#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oman",
+      "nameAr": "عمان",
+      "nameEn": "Oman",
+      "icon": "🇴🇲",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "oman::قناة الاستقامة",
+          "nameAr": "قناة الاستقامة",
+          "nameEn": "Al Istiqama TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "oman::قناة الاستقامة#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "oman::عمان الثقافية",
+          "nameAr": "عمان الثقافية",
+          "nameEn": "Oman Cultural",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "oman::عمان الثقافية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "oman::عمان مباشر",
+          "nameAr": "عمان مباشر",
+          "nameEn": "Oman Live",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "oman::عمان مباشر#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "oman::عمان الرياضية",
+          "nameAr": "عمان الرياضية",
+          "nameEn": "Oman Sports",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "oman::عمان الرياضية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "oman::تلفزيون عمان",
+          "nameAr": "تلفزيون عمان",
+          "nameEn": "Oman TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "oman::تلفزيون عمان#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kuwait",
+      "nameAr": "الكويت",
+      "nameEn": "Kuwait",
+      "icon": "🇰🇼",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "kuwait::بحري",
+          "nameAr": "بحري",
+          "nameEn": "Bahry",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::بحري#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "kuwait::Ch4Teen",
+          "nameAr": "Ch4Teen",
+          "nameEn": "Ch4Teen",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::Ch4Teen#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://ch14.tv/live/ch4teenclip/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "kuwait::تلفزيون الكويت 1",
+          "nameAr": "تلفزيون الكويت 1",
+          "nameEn": "Kuwait TV 1",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::تلفزيون الكويت 1#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "kuwait::تلفزيون الكويت 2",
+          "nameAr": "تلفزيون الكويت 2",
+          "nameEn": "Kuwait TV 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::تلفزيون الكويت 2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "kuwait::الكويت القرين",
+          "nameAr": "الكويت القرين",
+          "nameEn": "Kuwait Al Qurain",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::الكويت القرين#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "kuwait::الكويت العربي",
+          "nameAr": "الكويت العربي",
+          "nameEn": "Kuwait Arabi",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::الكويت العربي#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "kuwait::الكويت إثراء",
+          "nameAr": "الكويت إثراء",
+          "nameEn": "Kuwait Ethraa",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::الكويت إثراء#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "kuwait::أخبار الكويت",
+          "nameAr": "أخبار الكويت",
+          "nameEn": "Kuwait News",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::أخبار الكويت#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "kuwait::الكويت الرياضية",
+          "nameAr": "الكويت الرياضية",
+          "nameEn": "Kuwait Sports",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::الكويت الرياضية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "kuwait::الكويت الرياضية بلس",
+          "nameAr": "الكويت الرياضية بلس",
+          "nameEn": "Kuwait Sports Plus",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::الكويت الرياضية بلس#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "kuwait::مارينا TV",
+          "nameAr": "مارينا TV",
+          "nameEn": "Marina TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "kuwait::مارينا TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bahrain",
+      "nameAr": "البحرين",
+      "nameEn": "Bahrain",
+      "icon": "🇧🇭",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "bahrain::البحرين قرآن",
+          "nameAr": "البحرين قرآن",
+          "nameEn": "Bahrain Quran",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "bahrain::البحرين قرآن#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "bahrain::البحرين الرياضية 1",
+          "nameAr": "البحرين الرياضية 1",
+          "nameEn": "Bahrain Sports 1",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "bahrain::البحرين الرياضية 1#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "bahrain::البحرين الرياضية 2",
+          "nameAr": "البحرين الرياضية 2",
+          "nameEn": "Bahrain Sports 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "bahrain::البحرين الرياضية 2#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "bahrain::تلفزيون البحرين",
+          "nameAr": "تلفزيون البحرين",
+          "nameEn": "Bahrain TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "bahrain::تلفزيون البحرين#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iraq",
+      "nameAr": "العراق",
+      "nameEn": "Iraq",
+      "icon": "🇮🇶",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "iraq::قناة أبو الفضل",
+          "nameAr": "قناة أبو الفضل",
+          "nameEn": "Abu Al Fadhl TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::قناة أبو الفضل#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://t.northtelecom.org/ABALFADHLTV.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::ABNsat",
+          "nameAr": "ABNsat",
+          "nameEn": "ABNsat",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::ABNsat#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://mediaserver.abnvideos.com/streams/abnsat.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::أفرين باختشا",
+          "nameAr": "أفرين باختشا",
+          "nameEn": "Afrin Baxtia",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::أفرين باختشا#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::أفرين TV",
+          "nameAr": "أفرين TV",
+          "nameEn": "Afrin TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::أفرين TV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::العراقية",
+          "nameAr": "العراقية",
+          "nameEn": "Al Iraqiya",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::العراقية#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::العراقية الإخبارية",
+          "nameAr": "العراقية الإخبارية",
+          "nameEn": "Al Iraqiya News",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::العراقية الإخبارية#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::الرشيد TV",
+          "nameAr": "الرشيد TV",
+          "nameEn": "Al Rasheed TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::الرشيد TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::الجوادين TV",
+          "nameAr": "الجوادين TV",
+          "nameEn": "Al Jawadain TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::الجوادين TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::الشرقية",
+          "nameAr": "الشرقية",
+          "nameEn": "Al Sharqiya",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::الشرقية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::الشرقية نيوز",
+          "nameAr": "الشرقية نيوز",
+          "nameEn": "Al Sharqiya News",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::الشرقية نيوز#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::الحرة",
+          "nameAr": "الحرة",
+          "nameEn": "Al Hurra",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::الحرة#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::الحرة عراق",
+          "nameAr": "الحرة عراق",
+          "nameEn": "Al Hurra Iraq",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::الحرة عراق#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::القرآن",
+          "nameAr": "القرآن",
+          "nameEn": "Al Quran",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::القرآن#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::أفا فاميلي",
+          "nameAr": "أفا فاميلي",
+          "nameEn": "Ava Family",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::أفا فاميلي#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://familyhls.avatv.live/hls/stream.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::أفار TV",
+          "nameAr": "أفار TV",
+          "nameEn": "Afar TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::أفار TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::بينات TV",
+          "nameAr": "بينات TV",
+          "nameEn": "Bayyinat TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::بينات TV#1",
+              "qualityAr": "404p",
+              "qualityEn": "404p",
+              "url": "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::بيت العباس",
+          "nameAr": "بيت العباس",
+          "nameEn": "Bait Al Abbas",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::بيت العباس#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::قناة 8 كوردية",
+          "nameAr": "قناة 8 كوردية",
+          "nameEn": "Channel 8 Kurdish",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::قناة 8 كوردية#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::دجلة TV",
+          "nameAr": "دجلة TV",
+          "nameEn": "Dijlah TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::دجلة TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::إيمان TV",
+          "nameAr": "إيمان TV",
+          "nameEn": "Eman TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::إيمان TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://avr.host247.net/live/emantv/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::فرمودا TV",
+          "nameAr": "فرمودا TV",
+          "nameEn": "Farmoda TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::فرمودا TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::الإمام الحسين 1",
+          "nameAr": "الإمام الحسين 1",
+          "nameEn": "Imam Hussain 1",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::الإمام الحسين 1#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::الإمام الحسين 2",
+          "nameAr": "الإمام الحسين 2",
+          "nameEn": "Imam Hussain 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::الإمام الحسين 2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::الإمام الحسين 3",
+          "nameAr": "الإمام الحسين 3",
+          "nameEn": "Imam Hussain 3",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::الإمام الحسين 3#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::الإمام الحسين 4",
+          "nameAr": "الإمام الحسين 4",
+          "nameEn": "Imam Hussain 4",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::الإمام الحسين 4#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::آي نيوز",
+          "nameAr": "آي نيوز",
+          "nameEn": "i-News",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::آي نيوز#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.i-news.tv/hls/stream.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::كوردستان 24",
+          "nameAr": "كوردستان 24",
+          "nameEn": "Kurdistan 24",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::كوردستان 24#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::كوردسات",
+          "nameAr": "كوردسات",
+          "nameEn": "Kurdsat",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::كوردسات#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://iko-live.akamaized.net/KurdsatTV/master.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::كوردسات نيوز",
+          "nameAr": "كوردسات نيوز",
+          "nameEn": "Kurdsat News",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::كوردسات نيوز#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::المرجعية العربية",
+          "nameAr": "المرجعية العربية",
+          "nameEn": "Al Marjaeya Arabic",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::المرجعية العربية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::MBC العراق",
+          "nameAr": "MBC العراق",
+          "nameEn": "MBC Iraq",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::MBC العراق#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::روداو",
+          "nameAr": "روداو",
+          "nameEn": "Rudaw",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::روداو#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::شمس TV",
+          "nameAr": "شمس TV",
+          "nameEn": "Shams TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::شمس TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://stream.shams.tv/hls/stream.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::UTV",
+          "nameAr": "UTV",
+          "nameEn": "UTV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::UTV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "iraq::وار TV",
+          "nameAr": "وار TV",
+          "nameEn": "Waar TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "iraq::وار TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "syria",
+      "nameAr": "سوريا",
+      "nameEn": "Syria",
+      "icon": "🇸🇾",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "syria::العالم سوريا",
+          "nameAr": "العالم سوريا",
+          "nameEn": "Al Alam Syria",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "syria::العالم سوريا#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "syria::الثانية",
+          "nameAr": "الثانية",
+          "nameEn": "Syria TV 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "syria::الثانية#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "syria::حلب اليوم",
+          "nameAr": "حلب اليوم",
+          "nameEn": "Halab Today",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "syria::حلب اليوم#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "syria::روجاافا TV",
+          "nameAr": "روجاافا TV",
+          "nameEn": "Rojava TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "syria::روجاافا TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "syria::روناهي TV",
+          "nameAr": "روناهي TV",
+          "nameEn": "Ronahi TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "syria::روناهي TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "syria::سوريا الأولى",
+          "nameAr": "سوريا الأولى",
+          "nameEn": "Syria 1",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "syria::سوريا الأولى#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.syriaone.tv/live/syriaone.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "syria::تلفزيون سوريا",
+          "nameAr": "تلفزيون سوريا",
+          "nameEn": "Syria TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "syria::تلفزيون سوريا#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "syria::ويلات TV",
+          "nameAr": "ويلات TV",
+          "nameEn": "Welat TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "syria::ويلات TV#1",
+              "qualityAr": "1080i",
+              "qualityEn": "1080i",
+              "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "libya",
+      "nameAr": "ليبيا",
+      "nameEn": "Libya",
+      "icon": "🇱🇾",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "libya::المسار TV",
+          "nameAr": "المسار TV",
+          "nameEn": "Al Masar TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "libya::المسار TV#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://starmenajo.com/hls/almasar/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "libya::قناة فبراير",
+          "nameAr": "قناة فبراير",
+          "nameEn": "February Channel",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "libya::قناة فبراير#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "libya::ليبيا الوطنية",
+          "nameAr": "ليبيا الوطنية",
+          "nameEn": "Libya Al Watanya",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "libya::ليبيا الوطنية#1",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "libya::قناة التناصح",
+          "nameAr": "قناة التناصح",
+          "nameEn": "Al Tanasuh TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "libya::قناة التناصح#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maghreb",
+      "nameAr": "تونس والجزائر والمغرب",
+      "nameEn": "Tunisia, Algeria & Morocco",
+      "icon": "🇲🇦",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "maghreb::جوهره TV",
+          "nameAr": "جوهره TV",
+          "nameEn": "Jawhara TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "maghreb::جوهره TV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "maghreb::ستوري شانيل",
+          "nameAr": "ستوري شانيل",
+          "nameEn": "Story Channel",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "maghreb::ستوري شانيل#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://136044159.r.cdnsun.net/storychannel.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "maghreb::عمو يزيد",
+          "nameAr": "عمو يزيد",
+          "nameEn": "Amou Yazid",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "maghreb::عمو يزيد#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "maghreb::تلفزيون الجزائر 1",
+          "nameAr": "تلفزيون الجزائر 1",
+          "nameEn": "Algeria TV 1",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "maghreb::تلفزيون الجزائر 1#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "http://5.253.46.190:8000/play/a0eu/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "maghreb::2M Monde",
+          "nameAr": "2M Monde",
+          "nameEn": "2M Monde",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "maghreb::2M Monde#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "nameAr": "لبنان",
+      "nameEn": "Lebanon",
+      "icon": "🇱🇧",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "lebanon::أغاني أغاني",
+          "nameAr": "أغاني أغاني",
+          "nameEn": "Aghani Aghani",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::أغاني أغاني#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "http://77.42.253.43:9090/stream5/AGHANITV.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::الاتحاد",
+          "nameAr": "الاتحاد",
+          "nameEn": "Al Ittihad",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::الاتحاد#1",
+              "qualityAr": "552p",
+              "qualityEn": "552p",
+              "url": "http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::الجديد",
+          "nameAr": "الجديد",
+          "nameEn": "Al Jadeed",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::الجديد#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "http://185.9.2.18/chid_391/mono.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::المنار",
+          "nameAr": "المنار",
+          "nameEn": "Al Manar",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::المنار#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://edge.fastpublish.me/live/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::الميادين",
+          "nameAr": "الميادين",
+          "nameEn": "Al Mayadeen",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::الميادين#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::الإيمان TV",
+          "nameAr": "الإيمان TV",
+          "nameEn": "Al Iman TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::الإيمان TV#1",
+              "qualityAr": "240p",
+              "qualityEn": "240p",
+              "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::الوفاق نيوز",
+          "nameAr": "الوفاق نيوز",
+          "nameEn": "Al Wifaq News",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::الوفاق نيوز#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::أرابيكا TV",
+          "nameAr": "أرابيكا TV",
+          "nameEn": "Arabica TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::أرابيكا TV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::الصراط TV",
+          "nameAr": "الصراط TV",
+          "nameEn": "Al Sirat TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::الصراط TV#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::شاريتي TV",
+          "nameAr": "شاريتي TV",
+          "nameEn": "Charity TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::شاريتي TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::تلفزيون المستقبل",
+          "nameAr": "تلفزيون المستقبل",
+          "nameEn": "Future TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::تلفزيون المستقبل#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::LTV",
+          "nameAr": "LTV",
+          "nameEn": "LTV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::LTV#1",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://p-ltv.akamaized.net/ltv/ltv.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::MTV لبنان",
+          "nameAr": "MTV لبنان",
+          "nameEn": "MTV Lebanon",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::MTV لبنان#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::نبأ TV",
+          "nameAr": "نبأ TV",
+          "nameEn": "Nabaa TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::نبأ TV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::نور الشرق",
+          "nameAr": "نور الشرق",
+          "nameEn": "Nour Al Sharq",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::نور الشرق#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::نور مريم",
+          "nameAr": "نور مريم",
+          "nameEn": "Nour Maryam",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::نور مريم#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::نور سات",
+          "nameAr": "نور سات",
+          "nameEn": "Noursat",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::نور سات#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::نور سات إنجليزي",
+          "nameAr": "نور سات إنجليزي",
+          "nameEn": "Noursat English",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::نور سات إنجليزي#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::One TV",
+          "nameAr": "One TV",
+          "nameEn": "One TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::One TV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::OTV لبنان",
+          "nameAr": "OTV لبنان",
+          "nameEn": "OTV Lebanon",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::OTV لبنان#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::فلسطين اليوم",
+          "nameAr": "فلسطين اليوم",
+          "nameEn": "Palestine Today",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::فلسطين اليوم#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::Red TV",
+          "nameAr": "Red TV",
+          "nameEn": "Red TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::Red TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::سينسيز TV",
+          "nameAr": "سينسيز TV",
+          "nameEn": "Senses TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::سينسيز TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "http://31.14.41.69:8080/hls/sensesonline/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::طه TV",
+          "nameAr": "طه TV",
+          "nameEn": "Taha TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::طه TV#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://media1.livaat.com/static/TAHA_TV/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "lebanon::تلفزيون لبنان",
+          "nameAr": "تلفزيون لبنان",
+          "nameEn": "Télé Liban",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "lebanon::تلفزيون لبنان#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "palestine",
+      "nameAr": "فلسطين",
+      "nameEn": "Palestine",
+      "icon": "🇵🇸",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "palestine::الأقصى",
+          "nameAr": "الأقصى",
+          "nameEn": "Al Aqsa TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "palestine::الأقصى#1",
+              "qualityAr": "416p",
+              "qualityEn": "416p",
+              "url": "http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "palestine::فلسطيني TV",
+          "nameAr": "فلسطيني TV",
+          "nameEn": "Palestinian TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "palestine::فلسطيني TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "nameAr": "فرنسا",
+      "nameEn": "France",
+      "icon": "🇫🇷",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "france::6ter [Geo-blocked]",
+          "nameAr": "6ter [Geo-blocked]",
+          "nameEn": "6ter [Geo-blocked]",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::6ter [Geo-blocked]#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::20 Minutes TV",
+          "nameAr": "20 Minutes TV",
+          "nameEn": "20 Minutes TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::20 Minutes TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::AB1 [Geo-Blocked]",
+          "nameAr": "AB1 [Geo-Blocked]",
+          "nameEn": "AB1 [Geo-Blocked]",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::AB1 [Geo-Blocked]#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::ADN TV+",
+          "nameAr": "ADN TV+",
+          "nameEn": "ADN TV+",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::ADN TV+#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Africa 24",
+          "nameAr": "Africa 24",
+          "nameEn": "Africa 24",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Africa 24#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Africa 24 English",
+          "nameAr": "Africa 24 English",
+          "nameEn": "Africa 24 English",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Africa 24 English#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Africa 24 Sport",
+          "nameAr": "Africa 24 Sport",
+          "nameEn": "Africa 24 Sport",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Africa 24 Sport#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Alpe d'Huez TV",
+          "nameAr": "Alpe d'Huez TV",
+          "nameEn": "Alpe d'Huez TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Alpe d'Huez TV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Angers Tele",
+          "nameAr": "Angers Tele",
+          "nameEn": "Angers Tele",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Angers Tele#1",
+              "qualityAr": "180p",
+              "qualityEn": "180p",
+              "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Antenne Réunion",
+          "nameAr": "Antenne Réunion",
+          "nameEn": "Antenne Réunion",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Antenne Réunion#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::AraBel",
+          "nameAr": "AraBel",
+          "nameEn": "AraBel",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::AraBel#1",
+              "qualityAr": "180p",
+              "qualityEn": "180p",
+              "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Arte [Geo-blocked]",
+          "nameAr": "Arte [Geo-blocked]",
+          "nameEn": "Arte [Geo-blocked]",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Arte [Geo-blocked]#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::B Smart TV",
+          "nameAr": "B Smart TV",
+          "nameEn": "B Smart TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::B Smart TV#1",
+              "qualityAr": "320p",
+              "qualityEn": "320p",
+              "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Berbere TV",
+          "nameAr": "Berbere TV",
+          "nameEn": "Berbere TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Berbere TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "http://5.253.46.190:8000/play/a0fi/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::BET Classics",
+          "nameAr": "BET Classics",
+          "nameEn": "BET Classics",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::BET Classics#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::BFM2",
+          "nameAr": "BFM2",
+          "nameEn": "BFM2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::BFM2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Brionnais TV",
+          "nameAr": "Brionnais TV",
+          "nameEn": "Brionnais TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Brionnais TV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Canal 32",
+          "nameAr": "Canal 32",
+          "nameEn": "Canal 32",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Canal 32#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Caillou",
+          "nameAr": "Caillou",
+          "nameEn": "Caillou",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Caillou#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::CNews [Geo-Blocked]",
+          "nameAr": "CNews [Geo-Blocked]",
+          "nameEn": "CNews [Geo-Blocked]",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::CNews [Geo-Blocked]#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::DBM TV",
+          "nameAr": "DBM TV",
+          "nameEn": "DBM TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::DBM TV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Disney Jr.",
+          "nameAr": "Disney Jr.",
+          "nameEn": "Disney Jr.",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Disney Jr.#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::DNTV",
+          "nameAr": "DNTV",
+          "nameEn": "DNTV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::DNTV#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::EMCI TV",
+          "nameAr": "EMCI TV",
+          "nameEn": "EMCI TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::EMCI TV#1",
+              "qualityAr": "288p",
+              "qualityEn": "288p",
+              "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Equidia",
+          "nameAr": "Equidia",
+          "nameEn": "Equidia",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Equidia#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Euronews French",
+          "nameAr": "Euronews French",
+          "nameEn": "Euronews French",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Euronews French#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::FashionTV Paris",
+          "nameAr": "FashionTV Paris",
+          "nameEn": "FashionTV Paris",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::FashionTV Paris#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::FIFA+ French",
+          "nameAr": "FIFA+ French",
+          "nameEn": "FIFA+ French",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::FIFA+ French#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::France 2",
+          "nameAr": "France 2",
+          "nameEn": "France 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::France 2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "http://69.64.57.208/france2/mono.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::France 5",
+          "nameAr": "France 5",
+          "nameEn": "France 5",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::France 5#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "http://69.64.57.208/france5/mono.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::France 24 French",
+          "nameAr": "France 24 French",
+          "nameEn": "France 24 French",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::France 24 French#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Franceinfo",
+          "nameAr": "Franceinfo",
+          "nameEn": "Franceinfo",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Franceinfo#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Francophonie24",
+          "nameAr": "Francophonie24",
+          "nameEn": "Francophonie24",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Francophonie24#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Generations TV",
+          "nameAr": "Generations TV",
+          "nameEn": "Generations TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Generations TV#1",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Gong",
+          "nameAr": "Gong",
+          "nameEn": "Gong",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Gong#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::HANDICAP TV France",
+          "nameAr": "HANDICAP TV France",
+          "nameEn": "HANDICAP TV France",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::HANDICAP TV France#1",
+              "qualityAr": "بث",
+              "qualityEn": "Live",
+              "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::ILTV",
+          "nameAr": "ILTV",
+          "nameEn": "ILTV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::ILTV#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::KTO",
+          "nameAr": "KTO",
+          "nameEn": "KTO",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::KTO#1",
+              "qualityAr": "404p",
+              "qualityEn": "404p",
+              "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::L'Equipe",
+          "nameAr": "L'Equipe",
+          "nameEn": "L'Equipe",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::L'Equipe#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Le Figaro IDF",
+          "nameAr": "Le Figaro IDF",
+          "nameEn": "Le Figaro IDF",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Le Figaro IDF#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Littoral FM",
+          "nameAr": "Littoral FM",
+          "nameEn": "Littoral FM",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Littoral FM#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Monte Carlo DTV",
+          "nameAr": "Monte Carlo DTV",
+          "nameEn": "Monte Carlo DTV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Monte Carlo DTV#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Melody",
+          "nameAr": "Melody",
+          "nameEn": "Melody",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Melody#1",
+              "qualityAr": "288p",
+              "qualityEn": "288p",
+              "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        },
+        {
+          "id": "france::Mouv' TV",
+          "nameAr": "Mouv' TV",
+          "nameEn": "Mouv' TV",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": false,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "france::Mouv' TV#1",
+              "qualityAr": "288p",
+              "qualityEn": "288p",
+              "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8",
+              "audioUrl": null,
+              "requiresProxy": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "misc",
+      "nameAr": "قنوات منوعة",
+      "nameEn": "Variety Channels",
+      "icon": "🎭",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "misc::ميكس هوليوود",
+          "nameAr": "ميكس هوليوود",
+          "nameEn": "Mix Hollywood",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": true,
+          "audioUrl": null,
+          "streams": [
+            {
+              "id": "misc::ميكس هوليوود#1",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1",
+              "audioUrl": null,
+              "requiresProxy": true
+            },
+            {
+              "id": "misc::ميكس هوليوود#2",
+              "qualityAr": "480p",
+              "qualityEn": "480p",
+              "url": "https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-480p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1",
+              "audioUrl": null,
+              "requiresProxy": true
+            },
+            {
+              "id": "misc::ميكس هوليوود#3",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-360p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1",
+              "audioUrl": null,
+              "requiresProxy": true
+            },
+            {
+              "id": "misc::ميكس هوليوود#4",
+              "qualityAr": "240p",
+              "qualityEn": "240p",
+              "url": "https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-240p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1",
+              "audioUrl": null,
+              "requiresProxy": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mbc",
+      "nameAr": "MBC",
+      "nameEn": "MBC",
+      "icon": "📺",
+      "imageLight": null,
+      "imageDark": null,
+      "channels": [
+        {
+          "id": "mbc::MBC5 المغربية",
+          "nameAr": "MBC5 المغربية",
+          "nameEn": "MBC5 Morocco",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": true,
+          "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/manifest/audio1/192kbps/audio.m3u8",
+          "streams": [
+            {
+              "id": "mbc::MBC5 المغربية#1",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/manifest/video/360p500kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            }
+          ]
+        },
+        {
+          "id": "mbc::MBC4",
+          "nameAr": "MBC4",
+          "nameEn": "MBC4",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": true,
+          "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/audio1/192kbps/audio.m3u8",
+          "streams": [
+            {
+              "id": "mbc::MBC4#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/1080p2400kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC4#2",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/720p1750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC4#3",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/576p1200kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC4#4",
+              "qualityAr": "468p",
+              "qualityEn": "468p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/468p750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC4#5",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/360p500kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC4#6",
+              "qualityAr": "288p",
+              "qualityEn": "288p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/288p350kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            }
+          ]
+        },
+        {
+          "id": "mbc::MBC Bollywood",
+          "nameAr": "MBC Bollywood",
+          "nameEn": "MBC Bollywood",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": true,
+          "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/audio1/192kbps/audio.m3u8",
+          "streams": [
+            {
+              "id": "mbc::MBC Bollywood#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/video/1080p2400kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC Bollywood#2",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/video/720p1750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC Bollywood#3",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/video/576p1200kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC Bollywood#4",
+              "qualityAr": "468p",
+              "qualityEn": "468p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/video/468p750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC Bollywood#5",
+              "qualityAr": "288p",
+              "qualityEn": "288p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/video/288p350kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            }
+          ]
+        },
+        {
+          "id": "mbc::MBC 1",
+          "nameAr": "MBC 1",
+          "nameEn": "MBC 1",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": true,
+          "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/audio1/192kbps/audio.m3u8",
+          "streams": [
+            {
+              "id": "mbc::MBC 1#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/video/1080p2400kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC 1#2",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/video/720p1750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC 1#3",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/video/576p1200kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC 1#4",
+              "qualityAr": "468p",
+              "qualityEn": "468p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/video/468p750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC 1#5",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/video/360p500kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC 1#6",
+              "qualityAr": "288p",
+              "qualityEn": "288p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/video/288p350kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            }
+          ]
+        },
+        {
+          "id": "mbc::MBC دراما",
+          "nameAr": "MBC دراما",
+          "nameEn": "MBC Drama",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": true,
+          "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/audio1/192kbps/audio.m3u8",
+          "streams": [
+            {
+              "id": "mbc::MBC دراما#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/video/1080p2400kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC دراما#2",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/video/720p1750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC دراما#3",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/video/576p1200kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC دراما#4",
+              "qualityAr": "468p",
+              "qualityEn": "468p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/video/468p750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC دراما#5",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/video/360p500kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC دراما#6",
+              "qualityAr": "288p",
+              "qualityEn": "288p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/video/288p350kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            }
+          ]
+        },
+        {
+          "id": "mbc::MBC مصر",
+          "nameAr": "MBC مصر",
+          "nameEn": "MBC Masr",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": true,
+          "audioUrl": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/audio1/192kbps/audio.m3u8",
+          "streams": [
+            {
+              "id": "mbc::MBC مصر#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/1080p2400kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC مصر#2",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/720p1750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC مصر#3",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/576p1200kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC مصر#4",
+              "qualityAr": "468p",
+              "qualityEn": "468p",
+              "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/468p750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC مصر#5",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/360p500kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC مصر#6",
+              "qualityAr": "288p",
+              "qualityEn": "288p",
+              "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/video/288p350kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            }
+          ]
+        },
+        {
+          "id": "mbc::MBC مصر 2",
+          "nameAr": "MBC مصر 2",
+          "nameEn": "MBC Masr 2",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": true,
+          "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/audio1/192kbps/audio.m3u8",
+          "streams": [
+            {
+              "id": "mbc::MBC مصر 2#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/1080p2400kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC مصر 2#2",
+              "qualityAr": "720p",
+              "qualityEn": "720p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/720p1750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC مصر 2#3",
+              "qualityAr": "576p",
+              "qualityEn": "576p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/576p1200kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC مصر 2#4",
+              "qualityAr": "468p",
+              "qualityEn": "468p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/468p750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC مصر 2#5",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/360p500kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC مصر 2#6",
+              "qualityAr": "288p",
+              "qualityEn": "288p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/video/288p350kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            }
+          ]
+        },
+        {
+          "id": "mbc::MBC 3",
+          "nameAr": "MBC 3",
+          "nameEn": "MBC 3",
+          "imageLight": null,
+          "imageDark": null,
+          "requiresProxy": true,
+          "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/audio1/192kbps/audio.m3u8",
+          "streams": [
+            {
+              "id": "mbc::MBC 3#1",
+              "qualityAr": "1080p",
+              "qualityEn": "1080p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/1080p2400kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC 3#2",
+              "qualityAr": "468p",
+              "qualityEn": "468p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/468p750kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC 3#3",
+              "qualityAr": "360p",
+              "qualityEn": "360p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/360p500kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            },
+            {
+              "id": "mbc::MBC 3#4",
+              "qualityAr": "288p",
+              "qualityEn": "288p",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/288p350kbps/video.m3u8",
+              "audioUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/audio1/192kbps/audio.m3u8",
+              "requiresProxy": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

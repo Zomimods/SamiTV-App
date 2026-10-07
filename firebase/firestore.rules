@@ -1,0 +1,49 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isOwner(userId) {
+      return request.auth != null && request.auth.uid == userId;
+    }
+
+    match /users/{userId} {
+      allow read, delete: if isOwner(userId);
+      allow create, update: if isOwner(userId)
+        && request.resource.data.keys().hasOnly(
+          ['favoriteIds', 'watchHistory', 'updatedAt']
+        )
+        && request.resource.data.keys().hasAll(
+          ['favoriteIds', 'watchHistory', 'updatedAt']
+        )
+        && request.resource.data.favoriteIds is list
+        && request.resource.data.favoriteIds.size() <= 500
+        && request.resource.data.watchHistory is list
+        && request.resource.data.watchHistory.size() <= 10
+        && request.resource.data.updatedAt == request.time;
+
+      match /usage/{summaryId} {
+        allow read, create, update, delete: if isOwner(userId);
+      }
+    }
+
+    match /channels/{channelId}/comments/{commentId} {
+      allow read: if true;
+      allow create: if request.auth != null
+        && request.resource.data.keys().hasOnly(
+          ['text', 'createdAt']
+        )
+        && request.resource.data.keys().hasAll(
+          ['text', 'createdAt']
+        )
+        && request.resource.data.text is string
+        && request.resource.data.text.size() > 0
+        && request.resource.data.text.size() <= 500
+        && request.resource.data.createdAt == request.time;
+      allow update, delete: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

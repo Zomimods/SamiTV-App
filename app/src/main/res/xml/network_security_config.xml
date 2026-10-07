@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain>151.80.18.177</domain>
+        <domain>167.172.161.13</domain>
+        <domain>185.105.4.151</domain>
+        <domain>185.105.4.236</domain>
+        <domain>185.9.2.18</domain>
+        <domain>31.14.40.237</domain>
+        <domain>31.14.41.69</domain>
+        <domain>5.253.46.190</domain>
+        <domain>69.64.57.208</domain>
+        <domain>77.42.253.43</domain>
+        <domain>82.212.74.2</domain>
+        <domain>alwifaklive.info</domain>
+        <domain>istream.binarywaves.com</domain>
+        <domain>media3.smc-host.com</domain>
+        <domain>mkstream.servehttp.com</domain>
+        <domain>streaming.toutech.net</domain>
+    </domain-config>
+</network-security-config>

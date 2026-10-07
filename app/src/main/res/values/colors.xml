@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sami_primary">#087E70</color>
+    <color name="sami_on_primary">#FFFFFF</color>
+    <color name="sami_background">#F3F7F8</color>
+    <color name="sami_on_background">#132127</color>
+    <color name="sami_surface">#FFFFFF</color>
+</resources>
