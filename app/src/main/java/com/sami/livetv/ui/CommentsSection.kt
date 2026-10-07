@@ -4,6 +4,7 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.BasicTextField
@@ -144,7 +145,7 @@ private fun CommentsThread(vm: AppViewModel, path: String, site: Boolean, kicker
             ComposeBox(draft, { draft = it.take(500) }, ct(placeholder.removePrefix("cm_")))
             Row(horizontalArrangement = Arrangement.spacedBy(2.dp), modifier = Modifier.fillMaxWidth()) {
                 androidx.compose.foundation.lazy.LazyRow(Modifier.weight(1f)) {
-                    androidx.compose.foundation.lazy.items(EMOJIS) { e -> Text(e, fontSize = 20.sp, modifier = Modifier.clickable { draft = (draft + e).take(500) }.padding(4.dp)) }
+                    items(EMOJIS) { e -> Text(e, fontSize = 20.sp, modifier = Modifier.clickable { draft = (draft + e).take(500) }.padding(4.dp)) }
                 }
             }
             Box(

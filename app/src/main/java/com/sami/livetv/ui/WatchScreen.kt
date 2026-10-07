@@ -78,7 +78,7 @@ fun WatchScreen(
     LaunchedEffect(channelId, controller) {
         if (controller != null && startedFor != channelId) {
             startedFor = channelId
-            val current = controller.currentMediaMetadata.extras?.getString(com.sami.livetv.playback.PlaybackService.EXTRA_CHANNEL_ID)
+            val current = controller.mediaMetadata.extras?.getString(com.sami.livetv.playback.PlaybackService.EXTRA_CHANNEL_ID)
             if (current != channelId || !controller.isPlaying) target.channel.streams.firstOrNull()?.let { onStream(target, it) }
         }
     }

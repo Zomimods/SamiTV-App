@@ -161,7 +161,7 @@ class MainActivity : ComponentActivity() {
     }
 
     private fun recordCurrentPlayback(controller: MediaController) {
-        val channelId = controller.currentMediaMetadata.extras
+        val channelId = controller.mediaMetadata.extras
             ?.getString(PlaybackService.EXTRA_CHANNEL_ID)
             .orEmpty()
         if (channelId.isBlank()) return
@@ -174,7 +174,7 @@ class MainActivity : ComponentActivity() {
     }
 
     private fun recordPlaybackUsageIfNew(controller: MediaController) {
-        val channelId = controller.currentMediaMetadata.extras
+        val channelId = controller.mediaMetadata.extras
             ?.getString(PlaybackService.EXTRA_CHANNEL_ID)
             .orEmpty()
         val streamId = controller.currentMediaItem?.mediaId.orEmpty()
